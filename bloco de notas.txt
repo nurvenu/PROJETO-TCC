@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HELPME PASS</title>
+<Style>
+html, body{
+box-sizing:border-box;
+margin:0;
+padding:0;
+width:100%;
+height:100%;}
+.container{
+    background-color:rgb(199, 12, 12);
+    width:100vw;
+    height:395vh;
+    display:grid;
+    grid-template-rows:80px 500px 80px 600px 100px 300px 130px 530px 200px 70px;
+    grid-gap:3px;}
+.container > div0{
+    background-color:white;
+    text-align: center;}
+.container > div1{
+    background-color:rgb(0, 0, 0);
+    text-align: center;}
+.container > div2{
+    background-color:rgb(255, 255, 255);}
+.container > div3{
+    background-color: black;
+    text-align: center;}
+.container > div4{
+    background-color: rgb(255, 255, 255);}
+.container > div5{
+    background-color:rgb(0, 0, 0);
+    text-align:center;}
+.container > div6{
+    background-color:rgb(255, 255, 255);}
+.container > div7{
+    text-align:center;
+    background-color: white;}
+.container > div8{
+    background-color:black;    }
+.container > div9{
+    background-color: rgb(255, 255, 255);
+    text-align: center;}
+h1{
+    font: normal 16px Arial, Verdana, serif;
+    text-align: center;}
+h2{
+    font: normal 25px Arial, Verdana, serif;
+    text-align: center;}
+.container > div0{
+    text-align: center;}
+.div8, h3 {
+    font: normal 16px Arial, Verdana, serif;
+    color: white;
+    text-align: center;}
+.div6, h1{
+    font: normal 25px Arial, Verdana, serif;
+}
+.div8, form{
+font: normal 16px Arial, Verdana, serif;
+text-align: center;
+}
+
+
+</Style>
+ </head>
+  <body>
+   <div class="container">
+    <div0>
+
+     <img src="Logoprincipal1.jpg" width="300" height="80" alt="LogoMarca">
+      </div0>
+       <div1>
+        <img src="FotoPrincipal2.jpg" width="1100" height="500" alt="Foto de Moto">
+       </div1>
+      <div2>  
+     <h2>Adquira já a sua moto</h2>
+    </div2>
+   <div3>
+  <img src="FOTO DE TRES MOTOS.png" width="1300" height="600" alt="Foto de Tres Motos, Bros 160, CBR 1000RR e Brown 125">
+ </div3>   
+<div4>
+ <h2>Vantagens de comprar conosco:</h2>
+  </div4>
+   <div5> 
+    <img src="Atendimento,Segurança,Garantia.png" width="1100" height="300" alt="Atendimento, Segurança e Garantia.">
+     </div5>
+      <div6>
+       <h2>Segue Abaixo catálogo com algumas motos</h2>
+      </div6>
+     <div7>
+    <img src="Imagem catalogo.png" width="1034" height="530" alt="Catalogo de motos disponiveis">
+   </div7>
+  <div8>
+ <h3>Interessados!?
+<br>Informações de Contato
+ <br>Para Negociações
+  <br>Telefone:
+   <br>(84)99659-0204
+    <br>(84)99145-1864 
+     <br>ou
+    </h3>
+    <form>
+        <a href="https://wa.me/5584991451864">
+       <input type="button" value="Clique para chamar pelo whatsapp">
+      </a>  </form>
+ </div8>
+  <div9>
+    <img src="imagemdefinitiva.jpg" alt="" width="300" height="60">
+    <img src="Logoprincipal1.jpg" alt="A&D MotorSports, Logo marca do Site" width="300" height="60">
+  </div9>
+ </body>
+</html>

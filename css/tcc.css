@@ -1,0 +1,182 @@
+
+html, body{
+box-sizing:border-box;
+margin:0 auto;
+padding:0;
+width:100%;
+height:100%;
+font-family: 'Open Sans', sans-serif;
+}
+.container{
+    background-color:rgb(212, 108, 10);
+    width:100vw;
+    height: 163vh;
+    display:grid;
+    grid-template-rows:235px 75px 200px 200px 600px 150px ;
+    grid-gap:3px;}
+
+.container > div2{
+    background-color: rgb(44, 41, 41);
+
+    }
+.container > div2{
+    text-align:center;
+}
+.container > div3{
+    background-color: rgb(44, 41, 41);
+    text-align: center;
+}
+.container > div4{
+    background-color: rgb(44, 41, 41);
+    text-align:center;
+    color: white;
+
+}
+
+.container > div5{
+    background-color: rgb(44, 41, 41);
+    text-align:center;
+}
+
+
+@import url('https://fonts.googleapis.com/css2? família= Aberto+Sans &family= Roboto & display=swap');
+
+#menu-h ul {
+
+    list-style: none;
+    padding: 0;
+    background-color: rgb(44, 41, 41);
+    text-align: center;
+    
+}
+
+#menu-h ul li {
+    display: inline;
+
+}
+
+#menu-h ul li a{
+
+    color: #fff;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: color .4s;
+    
+
+    
+}
+
+#menu-h ul li a:hover{
+
+    color: rgb(212, 108, 10);
+    
+}
+---------------------------------------------------------------------------------
+#assuntos ul {
+
+    list-style: none;
+    padding: 0;
+    background-color: rgb(44, 41, 41);
+    text-align: center;
+    
+}
+
+#assuntos ul li {
+    display: inline;
+    font-size: 35px;
+    
+}
+
+#assuntos ul li a{
+
+    color: #fff;
+    padding: 100px;
+    display: inline-block;
+    text-decoration: none;
+    transition: color .10s;
+    
+
+    
+}
+
+#assuntos ul li a:hover{
+
+    background-color: rgb(212, 108, 10);
+    
+}
+
+---------------------------------------------------------------------------
+
+#assuntos2 ul {
+
+    list-style: none;
+    padding: 0;
+    background-color: rgb(44, 41, 41);
+    text-align: center;
+    
+}
+
+#assuntos2 ul li {
+    display: inline;
+    font-size: 35px;
+    
+}
+
+#assuntos2 ul li a{
+
+    color: #fff;
+    padding: 100px;
+    display: inline-block;
+    text-decoration: none;
+    transition: color .10s;
+    
+
+    
+}
+
+#assuntos2 ul li a:hover{
+
+    background-color: rgb(212, 108, 10);
+    
+}
+
+----------------------------------------------------------
+
+
+#link ul {
+
+    list-style: none;
+    padding: 0;
+    background-color: rgb(44, 41, 41);
+    text-align: center;
+    
+}
+
+#link ul li {
+    display: inline;
+    font-size: 20px;
+    
+}
+
+#link ul li a{
+
+    color: #fff;
+    display: inline-block;
+    text-decoration: none;
+    transition: color .10s;
+    
+
+    
+}
+
+#link ul li a:hover{
+
+    color: rgb(212, 108, 10);
+    
+}
+
+
+
+
+
